@@ -1,4 +1,4 @@
 # Recognition.gesture
-Common gesture recognition methods based on DTW algorithm
+Common gesture recognition methods based on DTW algorithm.
 
-
+![alt text](GestureTwo.png)
